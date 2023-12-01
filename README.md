@@ -32,8 +32,6 @@
 - Express.js
 - Mongoose
 
-## Screenshot
-
 ## Folder Structure
 
 ```plaintext
